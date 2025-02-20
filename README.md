@@ -1,10 +1,9 @@
 
 # Olá, eu sou Fabiano Brasselotti! 👋
 
-- 🙋🏽‍♂️ Tenho 26 anos;
+- 🙋🏽‍♂️ Tenho 27 anos;
 - 💯 Amo surfar e tocar guitarra;
-- 🌱 Estou me aprimorando em Front-end;
-- 🔭 Trabalho como assistente financeiro;
+- 🌱 Estou me desenvolvendo em Full Stack;
 - 📚 Estudante de Ciências e Tecnologia na UFRN;
 
 ##
